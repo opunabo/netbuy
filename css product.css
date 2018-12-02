@@ -1,0 +1,131 @@
+
+}
+
+.info {
+	font-family: Tahoma;
+	font-size: 24px;
+	color: white;
+	background-color: #333;
+    overflow: hidden;
+    padding: 11px 11px;
+}
+
+
+
+
+
+
+.item3{
+	position: relative;
+	top: 100px;
+	left: 700px; 
+	width: 400px;
+	height: 400px;
+}
+
+.button {
+    background-color: blue; 
+    border: none;
+    color: white;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family: Tahoma;
+    font-size: 20px;
+}
+
+
+.tex{
+	border-style: none;
+	font-family: tahoma;
+	font-size: 20px;
+
+
+}
+
+table {
+	table-layout: auto;
+	width: 550px;
+	background-color: hsla(0, 100%, 70%, 0.3);
+}
+
+
+
+
+
+.item {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+  float: left;
+  padding: 40px;
+}
+
+.item2 {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+  float: left;
+  padding: 40px;
+}
+
+.argent {
+  color: green;
+  font-size: 25px;
+  font-family: Tahoma;
+  text-align: center;
+}
+
+.item button {
+  border: none;
+  outline: 0;
+  padding: 20px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+
+  width: 100%;
+  font-size: 16px;
+}
+
+.item2 button {
+  border: none;
+  outline: 0;
+  padding: 20px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+
+  width: 100%;
+  font-size: 16px;
+}
+
+.item button:hover {
+  opacity: 0.3;
+}
+
+.item img {
+	width: 30%;
+	height: 30%;
+
+}
+
+
+.item2 button:hover {
+  opacity: 0.3;
+}
+
+.item2 img {
+	width: 60%;
+	height: 60%;
+
+}
+
+#prod {
+	float: right;
+}
